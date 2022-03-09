@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<presentation guid="0DCB24D2-A550-4057-A46D-1F73FF8BDB00" version="0" availableOffline="1">
+	<info>
+		<title>informatikadan test123</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id26" totalSize="2828854">
+		<file id="id0">data/movie.swf</file>
+		<file id="id1">data/flash.png</file>
+		<file id="id2">data/flash-required.html</file>
+		<file id="id3">data/isplayer.js</file>
+		<file id="id4">flash.html</file>
+		<file id="id5">data/img7C1EB393-4BD5-43F9-B990-4245747AA3E7.png</file>
+		<file id="id6">data/imgD3E39BA5-7D0F-4CBF-AFC5-20EA02E6742E.png</file>
+		<file id="id7">data/fnt1.woff</file>
+		<file id="id8">data/fnt2.woff</file>
+		<file id="id9">data/fnt3.woff</file>
+		<file id="id10">data/fnt4.woff</file>
+		<file id="id11">data/fnt5.woff</file>
+		<file id="id12">data/fnt6.woff</file>
+		<file id="id13">data/fnt7.woff</file>
+		<file id="id14">data/fnt8.woff</file>
+		<file id="id15">data/fnt9.woff</file>
+		<file id="id16">data/fnt10.woff</file>
+		<file id="id17">data/fnt11.woff</file>
+		<file id="id18">data/fnt12.woff</file>
+		<file id="id19">data/fnt13.woff</file>
+		<file id="id20">data/player.js</file>
+		<file id="id21">data/apple-touch-icon.png</file>
+		<file id="id22">data/favicon.ico</file>
+		<file id="id23">index.html</file>
+		<file id="id24">data/html5.png</file>
+		<file id="id25">data/html5-unsupported.html</file>
+		<file id="id26">data/ismplayer/preview.png</file>
+		<file id="id27">data/ismplayer/play.svg</file>
+		<file id="id28">data/ismplayer/style.css</file>
+		<file id="id29">data/ismplayer/style_mini.css</file>
+		<file id="id30">ismplayer.html</file>
+		<file id="id31">data/ismplayer/app_store2x.png</file>
+		<file id="id32">metainfo.xml</file>
+	</files>
+</presentation>
